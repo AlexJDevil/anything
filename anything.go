@@ -19,6 +19,9 @@ func main() {
 			fmt.Println(i, "is odd")
 		}
 	}
+
+	n, _ := fmt.Println("Hello, Playground", 42, true)
+	fmt.Println(n)
 }
 
 func fooGo() {
